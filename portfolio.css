@@ -1,0 +1,66 @@
+*{
+   padding: 0px;
+   margin: 0px;
+   background-color: rgb(136, 199, 169);
+ background-size: cover;
+}
+
+h3{
+    
+   text-decoration: underline;
+}
+#bk{
+   height: 300px;
+   width: 300px;
+   border: 5px rgb(10, 0, 0) solid;
+   
+   position: absolute;
+   right: 0px;
+   top: 150px;
+}
+
+ header div{
+   height: 60px;
+   background-color: rgb(23, 71, 71);
+  display: inline;
+}
+button{
+   margin-right: 200px;
+   font-size: 15px;
+   border-radius: 8px;
+
+}
+a{
+   text-decoration: none;
+}
+header{
+      height: 300px;
+}
+#uk{
+  
+   position: absolute;
+  margin-left: 600px;
+ 
+  display: inline-block;
+}
+#rk{
+   display: inline-block;
+}
+#pk{
+   height:150px;
+  width: 150px;
+  margin: 20px;
+}
+#ppk{
+   margin: 100px;
+   display: inline-block;
+}
+#tk{
+    height:190px;
+    width: 160px;
+  margin: 20px;
+  display: inline-block;
+  position: absolute;
+  left: 300px;
+  bottom: 110px;
+}
